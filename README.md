@@ -1,6 +1,6 @@
 # YOLO-Based-Intelligent-Traffic-Signal-Management-System
 <p align="justify">
-Traffic congestion is a persistent challenge in urban areas, and conventional traffic signal systems with fixed timing often fail to adapt to real-time conditions. This project presents an <b>AI-Based Traffic Signal Management System</b> that leverages <b>YOLOv8</b> for real-time vehicle detection and counting across multiple lanes. Based on the computed traffic density, the system dynamically regulates signal timings, ensuring a more efficient traffic flow, reduced congestion, and minimized waiting time.
+Traffic congestion is a persistent challenge in urban areas, and conventional traffic signal systems with fixed timing often fail to adapt to real-time conditions. This project presents an <b>YOLO-Based Intelligent Traffic Signal Management System</b> that leverages <b>YOLOv8</b> for real-time vehicle detection and counting across multiple lanes. Based on the computed traffic density, the system dynamically regulates signal timings, ensuring a more efficient traffic flow, reduced congestion, and minimized waiting time.
 </p>
 
 ## Features
