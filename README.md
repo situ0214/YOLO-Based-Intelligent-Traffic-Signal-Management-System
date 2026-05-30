@@ -28,14 +28,20 @@ The system processes real-time traffic from four designated lanes using YOLOv8 f
 </p>
 
 ## How to run the Project
-**📥 1. Clone the Repository**
-Begin by cloning the repository from GitHub:
+**1. Clone the Repository**
+
+Clone this repository to local device
 ```
-git clone https://github.com/situ0214/YOLO-Based-Intelligent-Traffic-Signal-Management-System.git cd YOLO-Based-Intelligent-Traffic-Signal-Management-System
+git clone https://github.com/situ0214/YOLO-Based-Intelligent-Traffic-Signal-Management-System.git 
 
 ```
+Navigate to the project directory
+```
+cd YOLO-Based-Intelligent-Traffic-Signal-Management-System
+```
 
-**🤖 2. Setup YOLOv8 Model**
+
+**2. Setup YOLOv8 Model**
 
 This project uses the YOLOv8 pre-trained model ```(yolov8s.pt) ```for real-time vehicle detection.
 
@@ -47,7 +53,7 @@ Install the required dependency:
 pip install ultralytics
 ```
 
-**🎥 3. Add Traffic Video Inputs**
+**3. Add Traffic Video Inputs**
 
 Download four clear traffic videos representing different road conditions. These videos simulate the four traffic lanes.
 
@@ -58,16 +64,16 @@ traffic_02.mp4
 traffic_03.mp4
 traffic_04.mp4
 ```
-⚠️ Ensure the videos are clear for accurate vehicle detection and analysis.
+Ensure the videos are clear for accurate vehicle detection and analysis.
 
 
-**📦 4. Install Dependencies**
+**4. Install Dependencies**
 Install all required Python libraries:
 ```
 pip install opencv-python numpy pillow matplotlib
 ```
 
-**🚀 5. Run the Python file**
+**5. Run the Python file**
 ```
 main.py
 ```
@@ -90,7 +96,4 @@ YOLO-Based-Intelligent-Traffic-Signal-Management-System
 <img src="Screenshot 2026-05-04 215544.png">
 
 ## Coded By
-**Situ Kumar
-B-tech Undergrad From
-Guru Ghasidas Vishwavidyalaya
-(A Central University)**
+**Situ Kumar**
