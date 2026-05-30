@@ -31,8 +31,7 @@ The system processes real-time traffic from four designated lanes using YOLOv8 f
 **📥 1. Clone the Repository**
 Begin by cloning the repository from GitHub:
 ```
-git clone https://github.com/your-username/AI-Traffic-Signal-Management-System.git
-cd AI-Traffic-Signal-Management-System 
+git clone https://github.com/situ0214/YOLO-Based-Intelligent-Traffic-Signal-Management-System.git cd YOLO-Based-Intelligent-Traffic-Signal-Management-System
 
 ```
 
@@ -68,7 +67,7 @@ Install all required Python libraries:
 pip install opencv-python numpy pillow matplotlib
 ```
 
-**🚀 5. Run the Application**
+**🚀 5. Run the Python file**
 ```
 main.py
 ```
@@ -87,5 +86,11 @@ YOLO-Based-Intelligent-Traffic-Signal-Management-System
 │
 └── README.md                   # Project documentation
 ```
-🚦 System Output and Dashboard Preview
+## 🚦 System Output and Dashboard Preview
+<img src="Screenshot 2026-05-04 215544.png">
 
+## Coded By
+**Situ Kumar
+B-tech Undergrad From
+Guru Ghasidas Vishwavidyalaya
+(A Central University)**
